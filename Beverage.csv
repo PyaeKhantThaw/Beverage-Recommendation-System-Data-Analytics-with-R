@@ -1,0 +1,92 @@
+Beverage,Calories,Total Fat,Carbohydrates ,Cholesterol ,Sugar,Protein ,Vitamin A  ,Calcium  ,Iron ,Caffeine 
+Brewed Coffee,3,0.1,5,0,0,0.3,0%,0%,0%,175
+Brewed Coffee,4,0.1,10,0,0,0.5,0%,0%,0%,260
+Brewed Coffee,5,0.1,10,0,0,1,0%,0%,0%,330
+Brewed Coffee,5,0.1,10,0,0,1,0%,2%,0%,410
+Vanilla Latte (Or Other Flavoured Latte),100,0.1,70,19,18,6,0%,20%,0%,75
+Vanilla Latte (Or Other Flavoured Latte),130,3.5,80,18,17,6,0%,20%,0%,75
+Vanilla Latte (Or Other Flavoured Latte),110,2.5,60,16,13,5,6%,20%,8%,75
+Vanilla Latte (Or Other Flavoured Latte),150,0.2,110,28,27,9,15%,30%,0%,75
+Vanilla Latte (Or Other Flavoured Latte),200,5,125,28,27,9,15%,30%,0%,75
+Vanilla Latte (Or Other Flavoured Latte),160,4,95,23,20,7,10%,30%,15%,75
+Vanilla Latte (Or Other Flavoured Latte),200,0.3,140,37,35,12,20%,35%,0%,150
+Vanilla Latte (Or Other Flavoured Latte),250,6,150,37,35,12,20%,35%,0%,150
+Vanilla Latte (Or Other Flavoured Latte),210,5,120,31,26,9,10%,35%,15%,150
+Vanilla Latte (Or Other Flavoured Latte),250,0.3,180,47,45,15,25%,50%,0%,150
+Vanilla Latte (Or Other Flavoured Latte),320,9,200,46,44,15,25%,45%,0%,150
+Vanilla Latte (Or Other Flavoured Latte),270,7,160,39,33,12,15%,45%,20%,150
+Cappuccino,50,0.1,60,8,7,5,8%,15%,0%,75
+Cappuccino,80,3,70,8,7,5,8%,15%,0%,75
+Cappuccino,50,1.5,40,4,3,3,4%,10%,6%,75
+Cappuccino,60,0.1,70,9,8,6,10%,20%,0%,75
+Cappuccino,90,3.5,80,9,8,6,10%,20%,0%,75
+Cappuccino,70,3,65,7,4,5,6%,20%,8%,75
+Cappuccino,80,0.2,90,12,10,8,15%,25%,0%,150
+Cappuccino,120,4,100,12,10,8,10%,25%,0%,150
+Cappuccino,100,3.5,80,9,5,7,8%,25%,10%,150
+Cappuccino,110,0.2,120,16,14,10,20%,30%,0%,150
+Cappuccino,150,6,135,16,14,10,15%,30%,0%,150
+Cappuccino,120,4.5,110,11,7,9,10%,35%,15%,150
+Caramel Macchiato,100,1,70,17,15,6,10%,15%,0%,75
+Caramel Macchiato,120,4,80,16,15,5,10%,15%,0%,75
+Caramel Macchiato,100,3,60,14,11,4,6%,15%,8%,75
+Caramel Macchiato,140,1,105,25,24,8,15%,25%,0%,75
+Caramel Macchiato,180,5,115,25,23,8,15%,25%,0%,75
+Caramel Macchiato,150,4.5,90,21,17,7,10%,25%,10%,75
+Caramel Macchiato,190,1,130,35,32,11,20%,35%,0%,150
+Caramel Macchiato,240,7,150,34,32,10,15%,30%,0%,150
+Caramel Macchiato,200,5,115,29,24,9,10%,35%,15%,150
+Caramel Macchiato,240,1,170,43,41,13,25%,40%,0%,150
+Caramel Macchiato,300,8,180,43,40,13,20%,40%,0%,150
+Caramel Macchiato,250,7,140,36,31,11,15%,40%,20%,150
+White Chocolate Mocha (Without Whipped Cream),180,3,120,31,29,7,10%,25%,0%,75
+White Chocolate Mocha (Without Whipped Cream),200,6,125,31,29,7,8%,25%,0%,75
+White Chocolate Mocha (Without Whipped Cream),180,5,110,28,25,6,6%,25%,8%,75
+White Chocolate Mocha (Without Whipped Cream),270,4.5,190,47,45,12,15%,35%,0%,75
+White Chocolate Mocha (Without Whipped Cream),310,9,200,46,44,11,15%,35%,0%,75
+White Chocolate Mocha (Without Whipped Cream),280,8,170,42,39,10,10%,35%,10%,75
+White Chocolate Mocha (Without Whipped Cream),350,6,240,61,58,15,20%,45%,2%,150
+White Chocolate Mocha (Without Whipped Cream),400,11,250,61,58,15,15%,45%,0%,150
+White Chocolate Mocha (Without Whipped Cream),370,10,220,56,51,13,10%,45%,15%,150
+White Chocolate Mocha (Without Whipped Cream),450,7,310,78,74,19,25%,60%,2%,150
+White Chocolate Mocha (Without Whipped Cream),510,15,330,77,74,19,20%,60%,2%,150
+White Chocolate Mocha (Without Whipped Cream),460,13,290,70,64,16,15%,60%,20%,150
+Hot Chocolate (Without Whipped Cream),130,1.5,70,26,23,7,10%,20%,10%,10
+Hot Chocolate (Without Whipped Cream),150,4.5,80,26,22,7,10%,20%,10%,10
+Hot Chocolate (Without Whipped Cream),130,3.5,60,23,18,6,6%,20%,20%,10
+Hot Chocolate (Without Whipped Cream),190,2,110,37,32,11,15%,30%,20%,20
+Hot Chocolate (Without Whipped Cream),230,7,120,37,32,10,15%,30%,20%,20
+Hot Chocolate (Without Whipped Cream),200,6,95,32,25,9,10%,30%,30%,20
+Hot Chocolate (Without Whipped Cream),240,2.5,140,48,41,14,20%,40%,25%,25
+Hot Chocolate (Without Whipped Cream),290,9,160,47,41,14,20%,40%,25%,25
+Hot Chocolate (Without Whipped Cream),250,7,125,41,32,12,15%,40%,40%,25
+Hot Chocolate (Without Whipped Cream),320,3,180,63,55,18,25%,50%,30%,30
+Hot Chocolate (Without Whipped Cream),380,11,200,63,54,17,25%,50%,30%,30
+Hot Chocolate (Without Whipped Cream),330,9,160,55,44,15,15%,50%,50%,30
+Iced Brewed Coffee (With Milk & Classic Syrup),80,0.1,25,18,18,2,2%,6%,0%,90
+Iced Brewed Coffee (With Milk & Classic Syrup),90,1,25,18,18,2,2%,6%,0.00%,90
+Iced Brewed Coffee (With Milk & Classic Syrup),80,1,20,17,17,2,2%,6%,0%,90
+Iced Brewed Coffee (With Milk & Classic Syrup),110,0.1,30,24,24,2,4%,8%,2%,90
+Iced Brewed Coffee (With Milk & Classic Syrup),120,1.5,35,24,24,2,4%,8%,0%,125
+Iced Brewed Coffee (With Milk & Classic Syrup),110,1,30,23,22,2,2%,8%,0%,125
+Iced Brewed Coffee (With Milk & Classic Syrup),160,0.1,50,36,36,4,6%,10%,4%,125
+Iced Brewed Coffee (With Milk & Classic Syrup),180,2,55,36,36,4,6%,10%,0%,170
+Iced Brewed Coffee (With Milk & Classic Syrup),170,1.5,45,34,33,3,4%,10%,0%,170
+Coffee,160,0.1,160,36,36,3,4%,10%,10%,0
+Coffee,180,2.5,160,36,36,3,4%,8%,0%,70
+Coffee,160,1.5,150,35,34,2,4%,10%,0%,70
+Coffee,220,0.1,210,51,50,4,6%,10%,4%,70
+Coffee,240,3,220,50,50,3,4%,10%,0%,95
+Coffee,220,1.5,210,49,47,3,4%,10%,0%,95
+Coffee,310,0.1,300,70,69,6,10%,20%,6%,95
+Coffee,350,5,300,70,69,5,8%,15%,2%,130
+Coffee,310,2.5,300,68,66,5,6%,20%,2%,130
+Coffee,90,0.1,160,20,19,3,4%,10%,0%,70
+Coffee,120,0.1,210,26,26,3,6%,10%,0%,95
+Coffee,160,0.1,270,34,33,5,8%,15%,2%,120
+Mocha,110,0.5,150,24,23,3,4%,8%,6%,70
+Mocha,150,1,200,33,30,4,6%,10%,8%,95
+Mocha,210,1,280,46,42,6,8%,15%,10%,130
+Java Chip,150,3,170,30,27,4,4%,10%,20%,70
+Java Chip,220,4,240,43,39,5,6%,10%,25%,105
+Java Chip,290,5,320,58,52,7,8%,15%,35%,165

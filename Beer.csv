@@ -1,0 +1,352 @@
+Name,Style,Brewery,ABV,Min IBU,Max IBU,Astringency,Body,Alcohol,Bitter,Sweet,Sour,Salty,Fruits,Hoppy,Spices,Malty,review_aroma,review_appearance,review_palate,review_taste,review_overall,number_of_reviews
+Amber,Altbier,Alaskan Brewing Co.,5.3,25,50,13,32,9,47,74,33,0,33,57,8,111,3.498994,3.636821,3.556338,3.643863,3.847082,497
+Double Bag,Altbier,Long Trail Brewing Co.,7.2,25,50,12,57,18,33,55,16,0,24,35,12,84,3.798337,3.846154,3.904366,4.024948,4.034304,481
+Long Trail Ale,Altbier,Long Trail Brewing Co.,5,25,50,14,37,6,42,43,11,0,10,54,4,62,3.409814,3.667109,3.600796,3.6313,3.830239,377
+Doppelsticke,Altbier,Uerige Obergärige Hausbrauerei GmbH / Zum Uerige,8.5,25,50,13,55,31,47,101,18,1,49,40,16,119,4.148098,4.033967,4.150815,4.205163,4.005435,368
+Sleigh'r Dark Doüble Alt Ale,Altbier,Ninkasi Brewing Company,7.2,25,50,25,51,26,44,45,9,1,11,51,20,95,3.625,3.973958,3.734375,3.765625,3.817708,96
+Sticke,Altbier,Uerige Obergärige Hausbrauerei GmbH / Zum Uerige,6,25,50,22,45,13,46,62,25,1,34,60,4,103,4.007937,4.007937,4.087302,4.192063,4.230159,315
+Okto Festival Ale,Altbier,Widmer Brothers Brewing Company,5.3,25,50,28,40,3,40,58,29,0,36,54,8,97,3.322581,3.637097,3.366935,3.354839,3.475806,124
+Southampton Altbier,Altbier,Southampton Publick House,5,25,50,18,49,5,37,73,22,0,21,37,4,98,3.496629,3.735955,3.588764,3.579775,3.738202,445
+Copper,Altbier,The Olde Mecklenburg Brewery,4.8,25,50,25,35,4,38,39,13,1,8,60,16,97,3.847826,4.043478,4.119565,3.98913,4.184783,46
+Organic Münster Alt,Altbier,Brauerei Pinkus Mueller,5.1,25,50,35,31,5,35,50,55,5,52,66,8,77,3.534694,3.528571,3.608163,3.587755,3.767347,245
+Altbier,Altbier,Uerige Obergärige Hausbrauerei GmbH / Zum Uerige,4.7,25,50,34,48,9,55,59,25,1,32,68,12,121,3.887701,4.061497,3.949198,4.053476,4.101604,187
+Gerst Amber,Altbier,Yazoo Brewing Company,5.1,25,50,10,19,1,21,30,11,4,8,24,2,65,3.833333,4.333333,3.833333,4,4,3
+Ad Astra Ale,Altbier,Free State Brewing Co.,5.6,25,50,7,30,5,43,43,13,1,13,50,6,93,3.52381,3.904762,3.77381,3.690476,3.869048,42
+Copperhead Ale,Altbier,Fordham Brewing Company,5.2,25,50,9,32,9,29,54,13,1,11,32,2,112,3.202381,3.541667,3.267857,3.303571,3.482143,84
+Brewer's Reserve Bourbon Barrel Barleywine,Barleywine - American,Central Waters Brewing Company,14.3,60,100,11,65,94,40,142,25,0,63,23,27,133,4.369205,4.072848,4.193709,4.307947,4.09106,302
+Old Ruffian,Barleywine - American,Great Divide Brewing Company,10.2,60,100,6,55,31,107,97,27,1,57,120,14,119,4.238552,4.318956,4.231629,4.285942,4.071885,939
+Old Horizontal,Barleywine - American,Victory Brewing Company,11,60,100,9,49,45,78,83,36,1,52,97,12,117,4.051918,4.075772,4.084191,4.14406,3.963517,1069
+Behemoth,Barleywine - American,Three Floyds Brewing Co. & Brewpub,10.5,60,100,18,71,52,90,125,72,0,101,105,24,105,4.207373,4.123272,4.187788,4.264977,4.059908,434
+Olde GnarlyWine,Barleywine - American,Lagunitas Brewing Company,10.9,60,100,14,49,44,47,74,28,0,43,68,17,89,4.052373,4.143208,4.082651,4.12766,4.016367,611
+Old Numbskull,Barleywine - American,AleSmith Brewing Company,11,60,100,14,58,36,52,117,29,0,54,67,13,122,4.176471,4.082633,4.137255,4.221289,4.102241,357
+Flying Mouflan,Barleywine - American,Tröegs Brewing Company,9.3,60,100,17,74,41,66,143,38,1,78,72,11,130,4.134783,4.133696,4.141304,4.23587,4.083696,460
+XS Old Crustacean,Barleywine - American,Rogue Ales,11.5,60,100,13,51,35,88,80,41,0,65,86,14,83,4.094595,4.024182,4.061166,4.064011,3.738265,703
+Doggie Claws,Barleywine - American,Hair of the Dog Brewing Company / Brewery and Tasting Room,11.5,60,100,14,55,34,66,102,36,1,53,82,22,98,4.197168,3.980392,4.022876,4.253813,4.021786,459
+Helldorado,Barleywine - American,Firestone Walker Brewing Co.,12.8,60,100,6,39,56,25,101,23,5,45,48,21,134,4.5,4,4,4.5,4.5,1
+Cockeyed Cooper,Barleywine - American,Uinta Brewing Company,11.1,60,100,12,62,66,38,52,20,0,32,42,22,103,3.943333,4.086667,3.843333,3.88,3.813333,150
+Solstice D'hiver,Barleywine - American,Brasserie Dieu Du Ciel,10.2,60,100,23,54,61,70,125,33,0,54,62,22,119,3.905172,3.912069,3.881034,3.927586,3.817241,290
+Anniversary Barley Wine Ale,Barleywine - American,Uinta Brewing Company,10.4,60,100,7,47,39,64,97,27,1,46,67,2,110,3.892606,3.924296,3.77993,3.818662,3.769366,284
+Barleywine Style Ale,Barleywine - American,Green Flash Brewing Co.,10.9,60,100,12,44,35,70,74,39,1,45,81,17,99,3.883954,4.101719,3.89255,3.84384,3.732092,349
+Lower De Boom Barleywine,Barleywine - American,21st Amendment Brewery,11.5,60,100,11,60,47,67,110,73,2,120,98,6,100,3.714286,3.785714,3.785714,3.428571,3.5,7
+Killer Penguin Barleywine,Barleywine - American,Boulder Beer / Wilderness Pub,10,60,100,8,34,33,29,70,28,0,41,35,4,67,3.616883,3.852814,3.595238,3.521645,3.573593,231
+Great,Barleywine - American,Alpine Beer Company,14,60,100,8,47,36,14,81,14,0,35,10,10,76,4.470588,3.890756,4.205882,4.5,4.163866,119
+Griffin's BowBoston Beer Company (Samuel Adams),Barleywine - American,Boston Beer Company (Samuel Adams),11.5,60,100,5,65,41,60,146,78,0,117,71,25,104,3.557471,3.833333,3.586207,3.442529,3.465517,87
+Fuller's ESB,Bitter - English Extra Special / Strong Bitter (ESB),Fuller Smith & Turner PLC,5.9,20,40,15,59,16,41,63,23,0,37,57,10,67,3.912885,4.001216,4.036062,4.130065,4.194895,1234
+Hobgoblin Ruby,Bitter - English Extra Special / Strong Bitter (ESB),Wychwood Brewery Company Ltd,5.2,20,40,8,44,6,49,82,19,0,37,59,13,88,3.539135,3.813594,3.635427,3.720906,3.774974,971
+Sawtooth,Bitter - English Extra Special / Strong Bitter (ESB),Left Hand Brewing Company,5.3,20,40,18,37,2,55,53,18,0,25,78,0,117,3.566553,3.746587,3.673208,3.691126,3.832765,586
+Harvest Ale,Bitter - English Extra Special / Strong Bitter (ESB),Southern Tier Brewing Company,6.7,20,40,18,26,11,74,21,23,0,26,105,9,52,3.938298,3.817021,3.803191,3.974468,4.071277,470
+Old Thumper,Bitter - English Extra Special / Strong Bitter (ESB),Shipyard Brewing Co.,5.6,20,40,12,27,19,57,75,29,0,35,75,5,102,3.565574,3.729508,3.68306,3.741803,3.754098,366
+Abbot Ale,Bitter - English Extra Special / Strong Bitter (ESB),Greene King / Morland Brewery,5,20,40,9,42,5,30,63,16,3,19,51,7,92,3.5,3.873512,3.712798,3.633929,3.764881,336
+Anvil,Bitter - English Extra Special / Strong Bitter (ESB),AleSmith Brewing Company,5.5,20,40,12,56,8,54,57,20,3,25,68,3,118,3.774704,3.982213,3.897233,3.911067,4.037549,253
+Scarlet Lady Ale,Bitter - English Extra Special / Strong Bitter (ESB),Stoudts Brewing Co.,5,20,40,18,32,4,50,45,21,0,15,82,2,89,3.490305,3.770083,3.555402,3.578947,3.747922,361
+Lord Rear Admiral,Bitter - English Extra Special / Strong Bitter (ESB),Three Floyds Brewing Co. & Brewpub,6.4,20,40,18,57,13,77,118,63,1,105,110,11,117,4.198276,4.193966,4.030172,4.198276,4.24569,116
+Extra Special Ale (ESA),Bitter - English Extra Special / Strong Bitter (ESB),Yards Brewing Co.,6,20,40,13,55,11,59,54,20,1,18,75,20,90,3.647773,3.888664,3.803644,3.813765,3.84413,247
+Foster's Premium Ale,Bitter - English Extra Special / Strong Bitter (ESB),Foster's Group Limited,5.5,20,40,21,43,15,45,53,17,0,16,73,7,95,2.701613,3.387097,3.044355,2.919355,3.104839,124
+Belk's ESB,Bitter - English Extra Special / Strong Bitter (ESB),Anderson Valley Brewing Company,6.8,20,40,21,48,16,83,48,43,1,52,123,22,73,3.69883,3.906433,3.817251,3.856725,3.798246,342
+ESB,Bitter - English Extra Special / Strong Bitter (ESB),Green Man Brewery,5.5,20,40,15,39,7,46,65,23,0,29,70,6,123,3.553571,3.785714,3.839286,3.857143,3.910714,28
+Motor Boat,Bitter - English Extra Special / Strong Bitter (ESB),SweetWater Brewing Company,5.6,20,40,18,48,6,92,57,38,2,39,144,9,87,3.757353,3.805147,3.698529,3.805147,3.878676,136
+Nelson Sauvignon (Nelson Sauvin Brut),Bière de Champagne / Bière Brut,Mikkeller ApS,9,10,35,37,27,10,39,86,119,2,111,47,8,22,4.236111,4.111111,4.027778,4.180556,4.125,36
+Malheur Bière Brut (Brut Reserve),Bière de Champagne / Bière Brut,Brouwerij De Landtsheer NV,12,10,35,29,45,29,16,91,65,6,79,35,13,47,4.029412,4.076471,4.047059,4.088235,4.088235,85
+Malheur Brut Noir (Black Chocolate),Bière de Champagne / Bière Brut,Brouwerij De Landtsheer NV,12,10,35,20,78,40,17,124,49,0,95,21,16,70,4.027778,4.194444,4.131944,4.138889,4.069444,72
+Krait Prestige,Bière de Champagne / Bière Brut,Cobra Beer Partnership Limited,8,10,35,35,31,35,21,104,49,0,62,30,9,72,3.393617,3.585106,3.617021,3.425532,3.62766,47
+Eisenbahn Lust,Bière de Champagne / Bière Brut,Cervejaria Sudbrack Ltda,11.5,10,35,21,48,43,18,109,65,4,67,20,28,62,3.717391,3.956522,3.782609,3.804348,3.695652,23
+Šamp - Pivní Sekt,Bière de Champagne / Bière Brut,Pivovarský D&#367;m,5,10,35,10,12,3,10,14,22,0,24,16,3,15,3.75,4.25,4.25,3.75,4.25,2
+Eisenbahn Lust Prestige,Bière de Champagne / Bière Brut,Cervejaria Sudbrack Ltda,11.5,10,35,2,3,4,1,4,1,0,5,1,0,3,4.166667,4.166667,4.166667,4.333333,4.333333,3
+Summer Love,Blonde Ale - American,Victory Brewing Company,5.2,15,25,30,19,2,61,17,41,2,48,88,3,38,3.736181,3.824121,3.836683,3.909548,3.919598,199
+Sweet Action,Blonde Ale - American,Sixpoint Brewery,5,15,25,13,38,7,54,39,38,0,40,81,2,50,3.844891,3.917883,3.963504,3.941606,4.032847,274
+Big Wave Golden Ale,Blonde Ale - American,Kona Brewing Co.,4.4,15,25,9,25,7,31,35,27,2,35,49,0,34,3.34,3.37,3.45,3.44,3.55,50
+Twilight Summer Ale,Blonde Ale - American,Deschutes Brewery,5,15,25,28,37,8,62,48,79,0,82,102,17,100,3.573248,3.713376,3.63535,3.649682,3.904459,314
+Tire Bite Golden Ale,Blonde Ale - American,Flying Dog Brewery,5.1,15,25,28,34,8,29,31,25,1,19,49,5,54,2.831159,3.07971,3.085507,2.934783,3.225362,690
+Export Ale,Blonde Ale - American,Shipyard Brewing Co.,5.1,15,25,15,41,13,34,45,39,7,35,61,4,85,3.241602,3.471576,3.326873,3.350129,3.489664,387
+Fireman's #4,Blonde Ale - American,Real Ale Brewing Company,5.1,15,25,14,17,10,24,26,21,8,26,39,10,36,3.304196,3.454545,3.440559,3.433566,3.744755,143
+India Pale Ale,Blonde Ale - American,Alexander Keith's,5,15,25,6,12,4,20,12,2,0,2,28,0,23,2.446215,2.661355,2.74502,2.525896,3.015936,251
+Samurai Ale,Blonde Ale - American,Great Divide Brewing Company,5.1,15,25,36,31,6,43,47,58,3,50,71,4,107,3.303077,3.578462,3.575385,3.430769,3.696923,325
+Bombshell Blonde,Blonde Ale - American,Southern Star Brewing Company,5.25,15,25,29,41,10,28,27,26,5,30,41,6,67,3.609827,3.852601,3.858382,3.745665,3.988439,173
+Farmhouse Summer Ale,Blonde Ale - American,Flying Fish Brewing Company,4.6,15,25,12,17,6,28,27,35,4,33,41,14,46,3.307692,3.436813,3.453297,3.431319,3.741758,182
+Single Chair Golden Ale,Blonde Ale - American,Magic Hat Brewing Company,5,15,25,22,40,10,22,34,45,3,34,50,7,64,3.229167,3.441667,3.458333,3.404167,3.575,120
+Citra Blonde Summer Brew,Blonde Ale - American,Widmer Brothers Brewing Company,4.3,15,25,48,42,13,71,22,80,2,97,55,0,45,3.784615,3.376923,3.630769,3.669231,3.692308,65
+True Blonde Ale,Blonde Ale - American,Ska Brewing Co.,5.3,15,25,27,38,6,31,57,42,1,42,44,7,84,3.276515,3.458333,3.462121,3.393939,3.568182,132
+Prairie Path Ale,Blonde Ale - American,Two Brothers Brewing Company,5.1,15,25,24,26,7,43,38,32,1,37,70,7,68,3.415929,3.575221,3.473451,3.415929,3.632743,113
+Summer Ale,Blonde Ale - American,Blue Point Brewing Company,4.4,15,25,16,22,3,25,14,25,6,27,37,1,46,3.163717,3.473451,3.477876,3.331858,3.610619,113
+Aud Blonde,Blonde Ale - American,Russian River Brewing Company,4.5,15,25,27,38,4,51,27,43,0,36,80,8,49,3.568182,3.806818,3.886364,3.806818,4.147727,44
+Gossamer Golden Ale,Blonde Ale - American,Half Acre Beer Company,4.2,15,25,23,44,9,55,41,54,5,74,97,5,67,3.821429,3.77551,3.836735,3.846939,4.117347,98
+Heavy Seas - Gold Ale,Blonde Ale - American,Heavy Seas Beer,4.5,15,25,22,31,7,34,33,27,3,31,53,3,61,3.285714,3.591837,3.520408,3.489796,3.602041,49
+Sum'r Summer Ale,Blonde Ale - American,Uinta Brewing Company,4,15,25,27,34,6,41,30,48,4,48,61,1,65,3.520833,3.6875,3.645833,3.708333,3.770833,24
+Summer Honey Ale,Blonde Ale - American,Big Sky Brewing Company,4.7,15,25,19,46,18,36,78,24,6,27,73,28,120,3.333333,3.427083,3.392361,3.354167,3.534722,144
+Ballantine XXX Ale,Blonde Ale - American,Pabst Brewing Company,4.85,15,25,18,41,4,33,27,16,2,14,64,3,51,2.817308,3.125,3.108974,3.108974,3.38141,156
+Molson Export,Blonde Ale - American,Molson Coors Canada,5,15,25,19,31,6,33,30,25,0,18,39,2,43,2.75,3.117021,3.132979,3.159574,3.398936,94
+Lonely Blonde,Blonde Ale - American,Fulton Beer,4.8,15,25,26,32,19,32,45,35,4,41,50,4,92,3.3,3.4,3.466667,3.4,3.5,15
+Summer Blonde Ale,Blonde Ale - American,River Horse Brewing Co.,4.5,15,25,15,23,5,17,21,32,0,34,27,3,44,3.027778,3.194444,3.12037,3.12037,3.388889,54
+Knockout Blonde,Blonde Ale - American,Lawson's Finest Liquids,5,15,25,28,35,16,102,30,64,5,76,148,9,62,3.956522,4.195652,4.130435,4.195652,4.347826,23
+Blonde Ale,Blonde Ale - American,Thomas Hooker Brewing Company,4.6,15,25,19,33,3,36,22,35,1,27,54,3,60,3.399254,3.473881,3.61194,3.55597,3.876866,134
+Bare Ass Blonde Ale,Blonde Ale - American,DuClaw Brewing Company,5,15,25,25,30,6,27,32,24,3,24,39,0,66,3.366667,3.566667,3.566667,3.733333,3.8,15
+NOLA Blonde AleNew Orleans Lager & Ale Brewing Company (NOLA),Blonde Ale - American,New Orleans Lager & Ale Brewing Company (NOLA),4.9,15,25,10,24,7,36,49,52,2,44,52,3,66,3.770833,3.9375,3.895833,3.791667,4.083333,24
+Alamo Golden Ale,Blonde Ale - American,Alamo Beer Co.,5.1,15,25,21,21,9,29,18,5,1,5,44,4,50,3.321429,3.357143,3.535714,3.535714,3.690476,42
+Golden Ale,Blonde Ale - American,Mayflower Brewing Company,4.7,15,25,32,34,9,29,26,17,3,17,46,7,48,3.379032,3.612903,3.620968,3.653226,3.991935,62
+Leffe Blonde,Blonde Ale - Belgian,Abbaye de Leffe S.A.,6.6,15,30,14,23,12,13,34,11,0,28,16,22,32,3.575379,3.790812,3.586084,3.570919,3.64273,1121
+Affligem Blond,Blonde Ale - Belgian,Brouwerij De Smedt / Brouwerij Affligem,6.8,15,30,19,28,12,20,47,36,0,38,25,17,41,3.80837,4.015419,3.848018,3.889868,3.943833,454
+Trappist Westvleteren BlondBrouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Blonde Ale - Belgian,Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),5.8,15,30,33,46,10,44,40,55,0,70,57,32,46,4.161111,4.218056,4.245833,4.227778,4.372222,360
+Devotion,Blonde Ale - Belgian,The Lost Abbey,6,15,30,31,33,10,74,45,49,4,72,112,38,63,3.822134,3.970356,3.816206,3.875494,3.964427,253
+Grimbergen Blonde,Blonde Ale - Belgian,Brouwerij Alken-Maes,6.7,15,30,11,31,16,19,63,57,2,45,22,25,45,3.630584,3.843643,3.680412,3.726804,3.812715,291
+Maredsous 6 - Blonde,Blonde Ale - Belgian,Brouwerij Duvel Moortgat NV,6,15,30,13,38,12,24,66,41,0,54,45,16,66,3.739521,4.071856,3.772455,3.775449,3.892216,167
+Saxo,Blonde Ale - Belgian,Brasserie Caracole,8,15,30,17,37,26,24,92,76,3,96,61,24,61,3.933649,3.92654,3.907583,3.924171,4.004739,211
+La Trappe Blond (Koningshoeven / Dominus),Blonde Ale - Belgian,Bierbrouwerij De Koningshoeven B.V.,6.5,15,30,23,53,28,28,61,45,0,52,36,25,45,3.672662,3.820144,3.683453,3.669065,3.76259,139
+Augustijn Blond,Blonde Ale - Belgian,Brouwerij Van Steenberge N.V.,7.5,15,30,22,31,28,20,71,40,3,64,28,29,42,3.604167,4.03125,3.645833,3.53125,3.6875,48
+Kasteel Blond,Blonde Ale - Belgian,Brouwerij Van Honsebrouck N.V.,7,15,30,16,29,21,20,50,30,0,42,32,15,42,3.813333,3.92,3.95,3.95,3.876667,150
+Blond,Blonde Ale - Belgian,Brasserie de l'Abbaye du Val-Dieu,6,15,30,33,35,22,28,82,59,0,63,61,33,56,3.771277,3.941489,3.840426,3.856383,3.984043,94
+St. Feuillien Blonde,Blonde Ale - Belgian,Brasserie St. Feuillien,7.5,15,30,29,38,20,39,78,65,0,77,63,32,35,3.829787,3.904255,3.723404,3.904255,3.93617,47
+Bink Blond,Blonde Ale - Belgian,Brouwerij Kerkom,5.5,15,30,19,46,16,53,73,69,1,57,85,35,67,3.810127,3.835443,3.708861,3.727848,3.816456,79
+Blond,Blonde Ale - Belgian,Brouwerij Hof Ten Dormaal,8,15,30,31,52,24,23,79,103,0,85,63,48,71,3.986486,3.986486,3.959459,4.148649,3.945946,37
+Tongerlo Blond,Blonde Ale - Belgian,Brouwerij Haacht NV,6,15,30,15,38,16,27,75,44,5,43,37,34,62,3.5,3.7,3.3,3.3,3.433333,15
+Southside Blonde,Blonde Ale - Belgian,Perennial Artisan Ales,5.5,15,30,21,27,9,19,41,49,1,60,39,25,40,3.75,3.833333,3.666667,3.75,3.833333,6
+Belgian Blonde,Blonde Ale - Belgian,BottleTree Beer Co.,5,15,30,21,32,10,30,54,50,3,59,45,22,62,3.604167,3.6875,3.541667,3.5,3.708333,24
+La Binchoise Blonde TraditionBrasserie La Binchoise (Malterie des Remparts),Blonde Ale - Belgian,Brasserie La Binchoise (Malterie des Remparts),6.5,15,30,16,43,19,27,82,65,0,79,44,29,39,3.72807,3.842105,3.842105,3.885965,4,57
+Brunehaut Blonde,Blonde Ale - Belgian,Brasserie De Brunehaut,6.5,15,30,23,47,15,24,62,47,5,56,54,24,62,3.388889,3.388889,3.444444,3.388889,3.555556,9
+Steenbrugge Blond,Blonde Ale - Belgian,Brouwerij Palm NV,6.5,15,30,18,38,21,28,81,64,0,66,49,35,66,3.605263,3.710526,3.631579,3.578947,3.552632,19
+Abbaye De Floreffe Blonde,Blonde Ale - Belgian,Brasserie Lefèbvre SA,6.3,15,30,17,25,15,33,76,44,3,49,55,30,65,3.588235,3.735294,3.588235,3.735294,3.823529,17
+La Gauloise Blonde,Blonde Ale - Belgian,Brasserie Du Bocq,6.3,15,30,27,35,20,27,54,54,4,54,33,34,57,3.5,3.619048,3.428571,3.47619,3.714286,21
+Valeir Blond,Blonde Ale - Belgian,Brouwerij Contreras,6.5,15,30,22,34,10,37,89,76,1,71,52,26,72,3.875,3.875,3.825,3.925,3.975,20
+Celestial Blonde Ale,Blonde Ale - Belgian,Old Forge Brewing Company,7,15,30,13,21,13,17,39,27,0,35,25,16,29,3.625,3.75,3.5,3.75,3.75,4
+'t Smisje Blond,Blonde Ale - Belgian,Brouwerij Smisje,6,15,30,11,34,14,21,31,82,0,79,43,15,22,3.260417,3.572917,3.260417,3.083333,3.03125,48
+De Koninck Blond,Blonde Ale - Belgian,Brouwerij De Koninck NV,6,15,30,21,42,20,24,64,54,0,50,41,16,39,3.4625,3.4625,3.5125,3.5125,3.6125,40
+Wendelinus Blonde,Blonde Ale - Belgian,Brasserie Meteor,6.8,15,30,16,40,19,26,94,44,0,52,41,36,71,3.7,3.533333,3.433333,3.466667,3.466667,15
+Ename Blond,Blonde Ale - Belgian,Brouwerij Roman N.V.,6.5,15,30,12,11,6,9,13,16,0,11,12,2,7,3.3,3.7,3.1,3.1,3.1,5
+St. Idesbald Blond,Blonde Ale - Belgian,Brouwerij Huyghe,6,15,30,20,24,10,21,28,34,0,30,29,14,30,3.1875,3.53125,3.28125,3.25,3.3125,16
+Abbaye D'Aulne Blonde Des Pères (Sur Lie) 6°,Blonde Ale - Belgian,Brasserie Val De Sambre,6,15,30,22,44,7,28,60,46,0,45,38,28,31,3.558824,3.558824,3.529412,3.558824,3.558824,17
+Viven Blond,Blonde Ale - Belgian,Brouwerij Van Viven,6.1,15,30,14,27,9,21,51,41,3,57,44,19,28,3.875,3.5,3.75,3.875,3.875,4
+Summer Belgian-Style Blonde Ale,Blonde Ale - Belgian,Choc Beer Co. / Pete's Place,5.5,15,30,32,34,10,25,51,58,0,72,32,43,61,3.529412,3.352941,3.735294,3.705882,3.764706,17
+Pater Lieven Blond,Blonde Ale - Belgian,Brouwerij Van den Bossche,6.5,15,30,10,18,4,13,27,21,0,21,20,8,16,3.3125,3.6875,3.4375,3.5625,3.5,8
+Troegenator,Bock - Doppelbock,Tröegs Brewing Company,8.2,17,27,11,63,17,16,117,25,0,38,15,10,93,3.77074,3.878363,3.847534,3.921525,3.904709,892
+Spaten Optimator,Bock - Doppelbock,Spaten-Franziskaner-Bräu,7.6,17,27,9,43,16,23,93,15,1,42,21,9,111,3.781427,3.922547,3.871452,3.971614,3.894566,1233
+Salvator,Bock - Doppelbock,Paulaner Brauerei GmbH & Co. KG,7.9,17,27,10,31,19,21,75,17,1,24,20,4,86,3.885025,3.904255,3.892799,3.979951,3.888707,1222
+Korbinian,Bock - Doppelbock,Bayerische Staatsbrauerei Weihenstephan,7.4,17,27,14,72,11,30,92,20,0,50,11,13,127,4.100845,4.147835,4.162619,4.268743,4.170539,947
+Samichlaus Classic Bier,Bock - Doppelbock,Brauerei Schloss Eggenberg,14,17,27,6,52,57,16,138,18,0,58,14,10,104,4.022234,3.876356,3.962581,4.062907,3.651302,922
+Samuel Adams Double Bock (Imperial Series)Boston Beer Company (Samuel Adams),Bock - Doppelbock,Boston Beer Company (Samuel Adams),9.5,17,27,4,30,37,22,87,25,1,38,15,15,92,3.893727,3.998596,3.989232,4,3.823502,1068
+Andechser Doppelbock Dunkel,Bock - Doppelbock,Klosterbrauerei Andechs,7.1,17,27,7,71,20,31,100,21,1,55,31,7,140,4.254355,4.275261,4.362369,4.43554,4.432056,287
+Perkulator Coffee Dopplebock,Bock - Doppelbock,Dark Horse Brewing Company,7,17,27,5,62,19,124,54,6,1,8,23,19,192,3.809384,3.633431,3.718475,3.807918,3.705279,341
+EKU 28,Bock - Doppelbock,Kulmbacher Brauerei AG,11,17,27,10,44,65,26,107,25,2,43,21,9,78,3.905213,3.735782,3.886256,3.925355,3.616114,422
+Liberator Doppelbock,Bock - Doppelbock,Thomas Hooker Brewing Company,8.5,17,27,5,63,40,53,98,23,0,45,40,9,114,4.139376,4.236842,4.260234,4.29922,4.230019,513
+Smuttynose S'muttonator (Heritage Series),Bock - Doppelbock,Smuttynose Brewing Company,8.2,17,27,13,62,36,25,93,17,0,37,36,16,100,3.931287,4.074561,4.046784,4.087719,3.96345,342
+Butthead Doppelbock,Bock - Doppelbock,Tommyknocker Brewery,8.2,17,27,12,69,47,26,115,51,2,52,30,5,119,3.592896,3.612022,3.598361,3.657104,3.580601,366
+Autumnal Fire,Bock - Doppelbock,Capital Brewery,7.8,17,27,7,72,31,32,118,30,0,52,28,11,158,3.988994,4.031447,4.051887,4.127358,4.144654,318
+Weltenburger Kloster Asam-Bock,Bock - Doppelbock,Klosterbrauerei Weltenburg,6.9,17,27,6,67,22,30,102,11,1,42,18,9,148,4.024715,4.098859,4.057034,4.161597,4.091255,263
+Wasatch The Devastator Double Bock,Bock - Doppelbock,Utah Brewers Cooperative,8,17,27,7,53,21,19,120,28,4,56,27,13,123,3.5,3.664384,3.568493,3.678082,3.643836,73
+St. Victorious,Bock - Doppelbock,Victory Brewing Company,7.6,17,27,8,70,11,30,100,28,0,43,30,22,135,3.924603,3.921958,4.021164,4.12037,4.039683,378
+Urbock 23°,Bock - Doppelbock,Brauerei Schloss Eggenberg,9.6,17,27,8,54,49,15,97,18,0,25,19,4,75,3.586957,3.461957,3.612319,3.612319,3.389493,276
+Voodoovator,Bock - Doppelbock,Atwater Block Brewery,9.5,17,27,15,89,25,62,127,18,2,60,48,4,165,3.404494,3.752809,3.373596,3.292135,3.407303,178
+Saxonator Dunkles Doppelbock,Bock - Doppelbock,Jack's Abby Brewing,8.5,17,27,10,106,31,33,121,27,0,72,27,21,144,4.166667,3.833333,4.666667,4.5,4.333333,3
+Doppel-Hirsch,Bock - Doppelbock,Der HirschBrau/Privatbrauerei Höss,7.2,17,27,8,46,18,35,112,22,0,54,29,7,105,3.747596,3.677885,3.65625,3.829327,3.766827,208
+Josephs Brau Winter Brew,Bock - Doppelbock,Trader Joe's Brewing Company,7.5,17,27,11,44,21,30,75,15,1,25,29,28,85,3.526627,3.686391,3.491124,3.553254,3.62426,169
+Duck-Rabbator,Bock - Doppelbock,The Duck-Rabbit Craft Brewery,8.5,17,27,13,64,20,26,116,27,0,44,29,15,127,4.085227,3.903409,3.886364,4.170455,3.971591,88
+Ettaler Curator Dunkler Doppelbock (US Import Version),Bock - Doppelbock,Klosterbrauerei Ettal / Ettaler Klosterbetriebe GmbH,9,17,27,18,62,23,20,130,28,0,74,3,6,126,3.966867,3.822289,3.927711,3.945783,3.891566,166
+Blonde Doppelbock,Bock - Doppelbock,Capital Brewery,7.8,17,27,7,77,58,31,109,39,0,46,36,10,123,3.682292,3.760417,3.898438,3.90625,3.895833,192
+Doppelbock Dunkel,Bock - Doppelbock,Brauerei Schloss Eggenberg,8.5,17,27,9,49,42,50,89,17,0,34,39,17,104,3.632479,3.803419,3.666667,3.709402,3.713675,117
+Tucher Bajuvator Doppelbock,Bock - Doppelbock,Brauerei Tucher Brau,7.2,17,27,15,87,37,58,152,42,0,72,47,8,172,4.057377,4.032787,4.092896,4.169399,4.144809,183
+Dark Heathen Triple Bock,Bock - Doppelbock,Kuhnhenn Brewing Company,12.5,17,27,6,100,69,32,216,43,0,124,13,16,157,4.108696,3.76087,4.086957,4.065217,3.869565,23
+Winter Bock,Bock - Doppelbock,Gordon Biersch Brewery Restaurant,7.5,17,27,5,59,14,18,91,10,0,20,14,16,113,3.657143,3.838095,3.752381,3.72381,3.747619,105
+Deep Water Dopplebock,Bock - Doppelbock,Thomas Creek Brewery,7,17,27,9,57,17,35,69,11,0,20,23,8,116,3.38764,3.764045,3.247191,3.252809,3.376404,89
+Doppelbock Grande Cuvée Printemps,Bock - Doppelbock,Les Trois Mousquetaires,8.6,17,27,11,77,38,34,154,37,0,87,28,19,129,4.092308,4.1,4.092308,4.207692,4.061538,65
+Lobotomy Bock,Bock - Doppelbock,Indian Wells Brewing Company,10.5,17,27,6,55,31,21,58,9,1,17,16,5,78,3.125,3.357955,2.875,2.926136,3.153409,88
+Primátor Double Bock Beer,Bock - Doppelbock,Pivovar Náchod a.s.,10.5,17,27,10,43,35,29,136,26,0,54,23,7,76,3.697368,3.848684,3.388158,3.447368,3.157895,76
+Icelandic DoppelbockEinstök Ölgerð (Einstök Beer Company),Bock - Doppelbock,Einstök Ölgerð,6.7,17,27,18,96,29,49,131,16,0,42,55,7,187,4,3.5,3.5,3.5,3.5,1
+Dopple Bock,Bock - Doppelbock,Sprecher Brewing Company,7.85,17,27,6,42,27,24,83,23,0,37,25,15,83,3.75,3.896226,3.886792,3.938679,3.966981,106
+St. Nikolaus Bock Bier - Brewer's Reserve,Bock - Doppelbock,Pennsylvania Brewing Company,8.5,17,27,19,82,25,32,130,31,0,61,27,26,130,4.071429,4.184524,4.220238,4.255952,4.291667,84
+Emancipator Doppelbock,Bock - Doppelbock,Christian Moerlein Brewing Company,7,17,27,17,60,17,23,104,27,0,32,35,11,128,3.475,3.775,3.725,3.475,3.725,20
+Winter-Bock,Bock - Doppelbock,Einbecker Brauhaus AG,7.5,17,27,9,54,27,39,94,17,0,54,44,7,92,3.854167,4.041667,3.833333,3.875,3.833333,24
+Granitbock,Bock - Doppelbock,Brauerei Hofstetten Krammer GmbH & Co. KG,7.3,17,27,16,52,15,29,85,30,0,37,22,10,107,3.746032,3.714286,3.809524,3.793651,3.714286,63
+Double Vision Doppelbock,Bock - Doppelbock,Grand Teton Brewing Co.,8,17,27,11,82,26,37,95,32,0,46,26,24,132,4.275862,4.224138,4.310345,4.37931,4.224138,29
+Fireman's Brew Brunette Beer,Bock - Doppelbock,"Fireman's Brew, Inc.",8,17,27,9,119,20,57,101,21,0,29,37,0,147,3.818182,3.954545,3.5,3.5,3.590909,11
+Schneider Aventinus Eisbock,Bock - Eisbock,Weisses Bräuhaus G. Schneider & Sohn GmbH,12,25,35,14,47,60,26,118,29,0,85,14,18,85,4.215352,3.941365,4.115672,4.267591,3.91951,938
+Raspberry Eisbock,Bock - Eisbock,Kuhnhenn Brewing Company,15.5,25,35,11,58,30,13,168,36,0,99,9,6,90,3.625,4,4,4.5,4,4
+Winter Wonder Lager,Bock - Eisbock,Kuhnhenn Brewing Company,13,25,35,8,66,78,25,175,46,0,88,16,27,130,3.960526,3.776316,4,3.888158,3.697368,76
+Ramstein Winter Wheat Eisbock,Bock - Eisbock,High Point Brewing Company,11.5,25,35,14,79,63,18,105,41,0,106,9,39,114,4.3,4.111111,4.311111,4.477778,4.333333,45
+Granitbock Ice,Bock - Eisbock,Brauerei Hofstetten Krammer GmbH & Co. KG,11.5,25,35,9,49,46,23,150,45,1,82,10,8,110,3.5,3.5,4,4,4,1
+Double Ice Bock,Bock - Eisbock,Southampton Publick House,18,25,35,15,59,79,15,171,49,0,77,13,10,119,4.022727,3.954545,4.204545,4.181818,4.136364,22
+Eisbock (Congelator),Bock - Eisbock,Micro-Brasserie L'Alchimiste,9.4,25,35,12,58,46,23,124,33,1,54,28,10,92,3.541667,3.770833,3.729167,3.625,3.645833,24
+Schorschbock Ice 13,Bock - Eisbock,Schorschbräu,13,25,35,2,15,15,4,36,17,0,27,2,7,16,3.5,4,2.5,2.5,3.5,1
+Schorschbock 31%,Bock - Eisbock,Schorschbräu,30.86,25,35,4,5,14,2,16,6,0,10,2,4,10,4,4,4,4.5,3.5,1
+La Félix,Bock - Eisbock,"Le Bilboquet, Brasseur Artisan",11.9,25,35,1,5,8,8,21,4,0,8,6,0,8,3.75,3.75,4,4,2.75,2
+Schorschbock 57%,Bock - Eisbock,Schorschbräu,57.5,25,35,0,7,17,3,9,6,0,10,0,2,4,4,4,4,3.5,4,1
+Eisbock,Bock - Eisbock,Lodi Beer Company,12,25,35,3,7,14,2,31,9,0,16,0,6,17,3.875,3.875,4,4.375,4,4
+Eis Instigator,Bock - Eisbock,Sly Fox Brewing Company,10.5,25,35,0,12,6,5,13,3,0,7,3,2,20,4,4.5,3.75,4.25,4.25,2
+Black Ice,Bock - Eisbock,Aarhus Bryghus,8.5,25,35,0,0,0,0,0,0,0,0,0,0,0,3.5,4,4,4,3.5,1
+Dead Guy Ale,Bock - Maibock,Rogue Ales,6.8,20,38,10,47,10,49,99,24,0,42,55,19,113,3.800806,3.892122,3.912936,4.023053,4.044987,2234
+Andygator,Bock - Maibock,Abita Brewing Co.,8,20,38,12,30,27,29,58,18,0,18,42,5,65,3.359155,3.598592,3.524648,3.459507,3.478873,284
+Mardi Gras Bock,Bock - Maibock,Abita Brewing Co.,6.5,20,38,16,36,9,40,64,10,0,14,57,14,131,3.230303,3.548485,3.406061,3.372727,3.536364,165
+Hofbräu Maibock (Urbock),Bock - Maibock,Hofbräuhaus München,7.2,20,38,22,34,27,43,56,9,1,14,56,13,94,3.768061,3.89924,3.863118,3.922053,3.920152,263
+Cabin Fever,Bock - Maibock,New Glarus Brewing Company,6,20,38,23,26,11,24,88,7,2,13,46,2,117,3.239669,3.719008,3.516529,3.371901,3.710744,121
+John John Dead Guy Ale,Bock - Maibock,Rogue Ales,6.4,20,38,12,51,73,36,84,31,2,30,41,25,94,3.796875,3.876953,3.808594,3.837891,3.806641,256
+Dundee Pale Bock Lager,Bock - Maibock,Genesee Brewing Co. / Dundee Brewing Co.,6.25,20,38,31,44,19,52,66,11,3,11,75,17,115,3.258865,3.528369,3.384752,3.404255,3.51773,282
+Maibock,Bock - Maibock,Summit Brewing Company,6.7,20,38,26,68,14,62,71,22,5,28,99,20,136,3.448925,3.752688,3.672043,3.626344,3.672043,186
+Mai-Ur-Bock,Bock - Maibock,Einbecker Brauhaus AG,6.5,20,38,14,33,9,53,87,31,2,34,74,10,112,3.688525,3.872951,3.827869,3.858607,3.862705,244
+Samichlaus Bier Helles,Bock - Maibock,Brauerei Schloss Eggenberg,14,20,38,10,47,62,8,123,17,1,40,14,14,86,3.736702,3.739362,3.765957,3.744681,3.489362,188
+Blonde Bock,Bock - Maibock,Gordon Biersch Brewery Restaurant,7,20,38,14,33,26,38,50,20,2,18,58,5,74,3.254902,3.581699,3.46732,3.349673,3.405229,153
+Boss Tom's Golden Bock,Bock - Maibock,Boulevard Brewing Co.,6.1,20,38,39,36,15,42,52,7,1,13,46,10,91,3.418478,3.505435,3.657609,3.592391,3.793478,92
+Maibock,Bock - Maibock,Capital Brewery,6.2,20,38,9,53,11,35,65,15,0,12,53,9,92,3.710884,3.768707,3.911565,3.894558,4.034014,147
+Narragansett Bock,Bock - Maibock,Narragansett Brewing Co.,6.5,20,38,15,54,16,65,90,29,1,44,86,12,136,3.707547,4.150943,4.04717,4.018868,4.084906,53
+Berkshire Maibock Lager,Bock - Maibock,Berkshire Brewing Company Inc.,6.5,20,38,25,53,27,40,105,34,1,41,57,15,108,3.848361,3.918033,3.877049,4.020492,3.97541,122
+Blonde Double MaiBock,Bock - Maibock,Stoudts Brewing Co.,7,20,38,21,47,20,38,83,36,0,43,53,9,87,3.668571,3.911429,3.828571,3.82,3.817143,175
+Mai Bock,Bock - Maibock,Sprecher Brewing Company,6,20,38,36,59,14,39,71,20,0,23,68,17,107,3.720183,3.834862,3.788991,3.715596,3.857798,109
+Maibock,Bock - Maibock,Gordon Biersch Brewery Restaurant,7.3,20,38,15,38,18,31,88,27,1,23,38,8,92,3.337209,3.604651,3.406977,3.476744,3.430233,43
+Hacker-Pschorr Hubertus Bock,Bock - Maibock,Hacker-Pschorr Bräu GmbH,6.8,20,38,26,42,27,42,58,32,3,37,63,11,114,3.642857,3.892857,3.785714,3.75,3.857143,14
+Bucking Bock,Bock - Maibock,Rahr & Sons Brewing Company,7.5,20,38,20,24,21,49,37,30,0,29,58,12,65,3.333333,3.396825,3.420635,3.47619,3.587302,63
+The Gift (WinterBock Lager),Bock - Maibock,Starr Hill Brewery,6.5,20,38,15,32,16,16,65,20,0,20,17,9,62,3.607843,3.647059,3.813725,3.764706,3.872549,51
+Primátor Maibock,Bock - Maibock,Pivovar Náchod a.s.,7.5,20,38,15,42,29,62,62,22,2,24,82,12,78,3.626761,3.908451,3.725352,3.690141,3.704225,71
+Andechser Bergbock Hell,Bock - Maibock,Klosterbrauerei Andechs,7,20,38,21,50,21,35,67,18,1,21,58,8,97,3.79,3.78,4.01,4.02,4.09,50
+Spaten Maibock / Premium Bock,Bock - Maibock,Spaten-Franziskaner-Bräu,6.5,20,38,19,54,19,37,38,26,0,23,63,9,87,3.6375,3.86875,3.8625,3.81875,3.8875,80
+Maibock,Bock - Maibock,Atwater Block Brewery,7.5,20,38,17,59,19,38,59,21,0,35,64,6,102,3.25,3.458333,3.333333,3.166667,3.263889,36
+Serie Signature Maibock,Bock - Maibock,Les Trois Mousquetaires,6.8,20,38,17,42,25,44,77,27,5,41,72,11,111,3.645833,3.6875,3.5625,3.479167,3.354167,24
+PENNdemonium,Bock - Maibock,Pennsylvania Brewing Company,8,20,38,12,50,36,53,100,47,1,70,73,13,109,3.652174,3.73913,3.782609,3.753623,3.818841,69
+Southampton May Bock,Bock - Maibock,Southampton Publick House,6.5,20,38,23,57,15,30,94,48,1,49,43,11,116,3.835227,3.880682,3.977273,4.113636,4.221591,88
+Früh Bock,Bock - Maibock,The Olde Mecklenburg Brewery,6,20,38,37,38,14,40,65,28,0,38,70,8,90,3.85,4.15,4.2,4.1,4.3,10
+Bock-Bier,Bock - Maibock,Mahrs-Bräu,6.5,20,38,27,47,12,32,62,39,1,42,49,11,86,3.642857,3.5,3.734694,3.765306,3.785714,49
+Brinkley's Maibock,Bock - Maibock,Free State Brewing Co.,6.5,20,38,9,37,11,41,46,18,1,17,64,5,87,3.25,3.666667,3.583333,3.666667,3.416667,6
+Heller Bock Saphir,Bock - Maibock,Brauerei Hofstetten Krammer GmbH & Co. KG,7.4,20,38,42,68,18,95,75,67,2,78,152,15,98,3.925926,3.87037,4.037037,4.092593,4.092593,27
+Gruffmeister 8,Bock - Maibock,Foothills Brewing Company,8,20,38,19,34,38,28,54,25,1,23,42,3,89,3.619048,3.690476,3.880952,3.761905,3.690476,21
+Ramstein Maibock,Bock - Maibock,High Point Brewing Company,7,20,38,29,42,19,49,63,13,0,14,71,15,128,3.941176,4.058824,4.058824,4.088235,4.205882,34
+Dump Truck,Bock - Maibock,"Bayern Brewing, Inc.",6,20,38,27,48,11,54,29,33,0,22,68,9,62,3.5625,3.625,3.6875,3.75,4,8
+Samuel Adams Winter LagerBoston Beer Company (Samuel Adams),Bock - Traditional,Boston Beer Company (Samuel Adams),5.6,20,30,8,29,5,33,24,13,1,17,27,45,64,3.527961,3.809759,3.668037,3.702851,3.811952,1824
+Shiner Bock,Bock - Traditional,Spoetzl Brewery,4.4,20,30,10,26,5,26,21,5,1,6,25,2,63,2.86488,3.229759,2.998906,3.031182,3.321116,914
+Samuel Adams Chocolate BockBoston Beer Company (Samuel Adams),Bock - Traditional,Boston Beer Company (Samuel Adams),5.8,20,30,3,99,5,35,101,10,0,20,14,0,108,3.648422,3.767751,3.655819,3.749014,3.641519,1014
+Michelob AmberBock,Bock - Traditional,Anheuser-Busch,5.2,20,30,6,27,8,16,31,6,0,5,15,1,80,2.676343,3.179245,2.798258,2.83672,3.133527,689
+Samuel Adams Cherry Chocolate BockBoston Beer Company (Samuel Adams),Bock - Traditional,Boston Beer Company (Samuel Adams),5.8,20,30,6,117,18,25,162,17,0,110,13,3,138,3.833333,3.833333,3.819444,3.847222,3.875,36
+Uff-da,Bock - Traditional,New Glarus Brewing Company,6.7,20,30,11,39,9,27,72,24,0,29,34,0,115,3.69967,3.882838,3.767327,3.864686,3.886139,303
+The Vixen Chocolate Chili BockBoston Beer Company (Samuel Adams),Bock - Traditional,Boston Beer Company (Samuel Adams),8.5,20,30,9,127,32,30,129,16,0,32,14,103,130,3.9,3.9,4,4.3,4.2,5
+St. Nikolaus Bock Bier,Bock - Traditional,Pennsylvania Brewing Company,6,20,30,19,61,3,47,54,8,0,13,36,24,102,3.890625,4,3.924479,4.065104,4.091146,192
+Spring Bock,Bock - Traditional,Saint Arnold Brewing Company,6.9,20,30,11,50,35,31,42,7,1,10,43,6,93,3.614504,3.671756,3.69084,3.721374,3.748092,131
+Pandora's Bock,Bock - Traditional,Breckenridge Brewery,7.5,20,30,11,41,22,20,88,25,0,39,31,13,100,3.259259,3.546296,3.37037,3.296296,3.365741,108
+Genesee Spring Bock,Bock - Traditional,Genesee Brewing Co. / Dundee Brewing Co.,5.2,20,30,13,39,5,18,50,10,2,12,21,1,67,3.134409,3.801075,3.473118,3.44086,3.865591,93
+Ur-Bock Dunkel,Bock - Traditional,Einbecker Brauhaus AG,6.5,20,30,10,38,18,40,55,14,0,18,41,5,88,3.627219,3.816568,3.742604,3.757396,3.778107,169
+La Trappe Bockbier,Bock - Traditional,Bierbrouwerij De Koningshoeven B.V.,7,20,30,15,58,17,35,77,22,0,39,38,21,106,4,4.256944,4.020833,4.090278,3.986111,72
+Christmas Bock,Bock - Traditional,Mahrs-Bräu,6,20,30,26,50,19,41,86,24,1,23,52,39,107,3.641935,3.693548,3.683871,3.667742,3.719355,155
+Noche Buena,Bock - Traditional,"Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.",5.9,20,30,15,30,8,21,57,7,0,11,26,7,70,3.441667,3.7,3.508333,3.441667,3.583333,60
+Schell's Bock,Bock - Traditional,August Schell Brewing Company,6.1,20,30,21,60,21,23,95,23,2,37,33,6,152,3.787037,3.916667,3.944444,4.027778,4.074074,54
+Schokolade Bock,Bock - Traditional,Millstream Brewing Company,6,20,30,11,88,5,39,88,6,0,7,21,4,159,3.776471,3.788235,3.7,3.929412,3.976471,85
+Saranac Chocolate Lager,Bock - Traditional,Matt Brewing Company,6,20,30,29,136,16,75,114,9,1,6,51,5,199,3.342105,3.394737,3.5,3.421053,3.368421,19
+Brother Benedict's Bock,Bock - Traditional,Granite City Food & Brewery,5.1,20,30,7,55,7,10,89,10,0,7,15,3,114,3.261905,3.5,3.333333,3.428571,3.559524,42
+Winterbock,Bock - Traditional,Atwater Block Brewery,7.5,20,30,13,44,24,39,91,27,0,33,41,13,110,3.305556,3.722222,3.296296,3.074074,3.064815,54
+Creemore Springs UrBock,Bock - Traditional,Creemore Springs Brewery Limited,6,20,30,9,54,11,34,85,18,0,29,45,9,115,3.442308,3.647436,3.576923,3.602564,3.660256,78
+Mountain Holidays In Vermont,Bock - Traditional,Rock Art Brewery,5.8,20,30,12,74,12,48,88,22,1,25,47,26,119,3.701299,3.837662,3.805195,3.746753,3.824675,77
+Huber Bock Beer,Bock - Traditional,Minhas Craft Brewery,5.5,20,30,7,67,8,39,80,17,1,17,26,8,105,3.132075,3.45283,3.141509,3.358491,3.5,53
+Kozlak,Bock - Traditional,Browar Amber,6.5,20,30,10,41,20,23,86,18,0,33,23,11,113,3.486111,3.736111,3.388889,3.569444,3.402778,36
+Nero's 1st Century Double Dark Malt Ale,Bock - Traditional,Amarcord Birra Artigianale Italiana,8,20,30,13,41,20,23,97,36,0,46,26,13,81,2.833333,3.833333,3,2.916667,3.083333,6
+Bokbier,Bock - Traditional,Jopen Bier BV Haarlem,6.5,20,30,23,47,10,34,68,30,2,31,16,9,106,3.855556,3.666667,3.733333,3.766667,3.722222,45
+Mönchshof Bockbier,Bock - Traditional,Kulmbacher Brauerei AG,6.9,20,30,12,40,20,31,92,33,3,41,37,6,91,3.709677,3.935484,3.709677,3.83871,3.806452,31
+Battlefield Bock,Bock - Traditional,Red Oak Brewery,6.5,20,30,9,74,7,44,59,5,0,4,26,8,84,3.625,3.916667,3.875,3.791667,3.916667,12
+Chouffe-Bok 6666,Bock - Traditional,Brasserie d'Achouffe,6.66,20,30,15,50,18,38,103,55,0,56,38,33,101,3.759259,3.962963,3.888889,4.018519,3.962963,27
+Christoffel Bokbier,Bock - Traditional,Bierbrouwerij Sint Christoffel B.V,7.8,20,30,8,55,23,25,114,29,0,54,31,6,95,3.559524,3.404762,3.47619,3.52381,3.52381,42
+Aass Bock,Bock - Traditional,Aass Brewery,6.5,20,30,5,49,14,34,81,15,0,21,25,3,76,3.853659,3.987805,3.817073,4.036585,3.926829,41
+Stegmaier Brewhouse Bock,Bock - Traditional,"Lion Brewery, Inc.",6.6,20,30,8,53,19,19,86,17,0,21,18,4,101,3.68,3.74,3.75,3.76,3.91,50
+Bock De Joliette,Bock - Traditional,Micro-Brasserie L'Alchimiste,6.1,20,30,9,31,10,33,65,33,0,36,37,4,74,3.25,3.545455,3.431818,3.340909,3.386364,22
+Dreher Bak,Bock - Traditional,Dreher Brewery,7.3,20,30,8,62,23,57,63,10,0,11,38,4,91,3.5,3.863636,3.659091,3.772727,3.636364,22
+Schneider Weisse Tap 6 Unser Aventinus,Bock - Weizenbock,Weisses Bräuhaus G. Schneider & Sohn GmbH,8.2,15,35,14,73,48,17,95,38,1,91,17,45,107,4.269352,4.178515,4.195366,4.388362,4.234334,1899
+Vitus,Bock - Weizenbock,Bayerische Staatsbrauerei Weihenstephan,7.7,15,35,14,53,23,11,52,48,0,72,15,47,50,4.142541,4.146233,4.172083,4.260709,4.254062,677
+Moonglow Weizenbock,Bock - Weizenbock,Victory Brewing Company,8.7,15,35,7,31,24,13,67,36,0,72,9,33,62,4.051988,3.977064,3.996177,4.067278,3.970183,654
+Bavarian-Styled Doppel Weizen,Bock - Weizenbock,Lagunitas Brewing Company,8.7,15,35,4,32,10,35,52,43,0,61,46,9,68,3.887168,3.794248,3.734513,3.794248,3.785398,226
+Erdinger Weissbier Pikantus,Bock - Weizenbock,Erdinger Weissbräu,7.3,15,35,16,52,27,10,103,33,0,63,8,30,86,3.783186,3.951327,3.789823,3.856195,3.860619,226
+Ramstein Winter Wheat,Bock - Weizenbock,High Point Brewing Company,9.5,15,35,16,90,41,25,104,36,0,68,19,53,136,4.141393,3.985656,4.129098,4.241803,4.192623,244
+Schneider Weisse Tap X Mein Nelson Sauvin,Bock - Weizenbock,Weisses Bräuhaus G. Schneider & Sohn GmbH,7.3,15,35,23,53,23,43,102,70,0,112,70,33,77,4.05,4.25,4.15,4.05,4.116667,30
+Primus Weizenbock,Bock - Weizenbock,Live Oak Brewing Company,8.3,15,35,13,68,15,17,59,24,0,65,19,46,82,4.142857,4.011905,3.988095,4.190476,3.964286,42
+Der Weisse Bock,Bock - Weizenbock,Mahrs-Bräu,8.5,15,35,22,69,25,20,87,29,0,62,25,29,111,3.9,3.87619,3.828571,3.857143,3.804762,105
+Plank Bavarian Heller Weizenbock,Bock - Weizenbock,Brauerei Michael Plank,7.5,15,35,23,64,37,21,88,42,0,99,43,34,118,3.892857,4.10119,3.946429,4.035714,4.02381,84
+Plank Bavarian Dunkler Weizenbock,Bock - Weizenbock,Brauerei Michael Plank,7.5,15,35,28,90,44,33,123,49,0,95,24,38,178,3.925,4.08125,3.75625,3.9375,3.86875,80
+La Shawinigan Handshake,Bock - Weizenbock,Le Trou Du Diable,6.5,15,35,34,46,22,53,47,84,0,113,85,49,68,4,4.25,4,4.25,4,2
+Weizenbock Grande Cuvée,Bock - Weizenbock,Les Trois Mousquetaires,11,15,35,8,63,60,19,181,59,0,119,16,40,108,3.826087,3.956522,4.043478,3.826087,3.652174,23
+Eisenbahn Vigorosa (Weizenbock),Bock - Weizenbock,Cervejaria Sudbrack Ltda,8,15,35,17,59,32,14,80,32,0,63,12,30,94,3.80814,3.622093,3.69186,3.784884,3.715116,86
+Alpen Glow,Bock - Weizenbock,Fat Heads Brewery & Saloon,7,15,35,10,48,29,10,56,23,0,66,7,34,55,4.038462,4.192308,3.923077,4.076923,4,13
+Weiss Principal Imperial Hefe,Bock - Weizenbock,Peak Organic Brewing Company,8.6,15,35,16,46,35,79,32,85,0,91,97,42,35,3.670732,4.012195,3.52439,3.341463,3.5,41
+Teufel Bock,Bock - Weizenbock,Atwater Block Brewery,10.9,15,35,15,65,49,47,96,30,0,69,53,27,150,3.894737,3.973684,3.684211,3.815789,3.684211,19
+Face Plant,Bock - Weizenbock,"Bayern Brewing, Inc.",7.5,15,35,10,66,33,34,73,24,0,40,35,21,121,3.461538,3.5,3.346154,3.615385,3.769231,13
+Hopf Weisser Bock,Bock - Weizenbock,Weissbierbrauerei Hopf,7,15,35,15,54,22,9,62,38,0,76,9,44,78,3.840426,3.840426,3.914894,3.925532,4.042553,47
+Angry Goat,Bock - Weizenbock,Rahr & Sons Brewing Company,8,15,35,6,45,20,24,60,18,0,27,14,12,57,3.916667,3.75,3.916667,4,3.916667,6
+Weizenbock,Bock - Weizenbock,Pennsylvania Brewing Company,7.9,15,35,11,69,28,16,81,22,0,77,14,56,89,4.036585,4.097561,3.97561,4.04878,3.939024,41
+Volks Weizenbock,Bock - Weizenbock,Appalachian Brewing Company,7.2,15,35,9,58,19,18,71,35,0,50,20,57,49,3.774194,3.725806,3.758065,3.935484,3.822581,31
+Weizen Bock,Bock - Weizenbock,Scuttlebutt Brewing Company,7.9,15,35,19,58,34,22,66,49,0,61,20,30,76,3.425,3.475,3.55,3.4,3.4,20
+Heineken Tarwebok,Bock - Weizenbock,Heineken Nederland B.V.,6.5,15,35,13,47,24,24,83,10,1,26,18,12,80,3.607143,3.642857,3.607143,3.785714,3.75,14
+Weizenbock,Bock - Weizenbock,Olde Hickory Brewery,8,15,35,15,37,47,19,48,41,0,62,28,46,57,3.444444,3.333333,3.5,3.444444,3.611111,9
+Yule Tide (2015+),Bock - Weizenbock,Heavy Seas Beer,9,15,35,2,23,24,2,40,11,0,32,5,31,43,3.771429,3.761905,3.728571,3.685714,3.609524,105
+St. Blasius Weizenbock,Bock - Weizenbock,Aktien-Brauerei Kaufbeuren AG,7.2,15,35,14,41,22,11,115,79,0,90,10,28,87,3.391892,3.256757,3.472973,3.459459,3.432432,37
+Summer Haze Pale Weizenbock,Bock - Weizenbock,Blue Mountain Brewery,7.8,15,35,10,15,11,24,21,31,0,40,30,11,21,3.833333,4.166667,4,4.5,4.5,3
+Maximilian,Bock - Weizenbock,Urban Chestnut Brewing Company,7.5,15,35,7,15,9,5,13,6,0,14,6,11,32,4,4.5,4,3.833333,4,3
+Weizenbock,Bock - Weizenbock,Mill Street Brew Pub,7.5,15,35,8,33,24,8,56,18,0,49,9,28,52,4,4,3.5,3.5,3.833333,3
+Portsmouth Weizenbock,Bock - Weizenbock,Portsmouth Brewery,7,15,35,12,42,44,19,100,39,0,68,25,38,78,3.925,4.05,3.875,3.925,3.85,20
+DumDuminator,Bock - Weizenbock,Les Brasseurs Du Temps,8,15,35,3,17,10,3,31,8,0,15,3,8,21,3.3,3.4,3.4,3.5,3.1,5
+Braggot,Braggot,Kuhnhenn Brewing Company,12.8,20,40,12,43,86,22,263,38,1,86,37,43,180,3.852941,3.882353,3.882353,3.882353,3.705882,17
+Baklava Braggot,Braggot,Jackie O's Pub & Brewery,8,20,40,16,40,20,16,123,61,2,58,8,73,97,4.033333,3.9,4.133333,4.033333,4.1,15
+Slippery Slope,Braggot,The People's Pint,9.8,20,40,27,32,32,14,141,114,0,102,26,107,70,3.74359,3.628205,3.589744,3.769231,3.512821,39
+Old Danish Braggot,Braggot,Dansk Mjød A/S,10.1,20,40,6,70,37,9,169,18,0,22,14,120,119,4.027778,3.75,3.805556,3.833333,3.638889,18
+Portsmouth Killer B,Braggot,Portsmouth Brewery,9.8,20,40,6,45,21,22,127,29,0,46,23,18,82,4.285714,4.357143,4.428571,4.5,4.428571,7
+Biere De Miele,Braggot,Rabbit's Foot Meadery,4.2,20,40,15,20,12,12,68,20,0,13,20,11,49,3.5,3.571429,3.714286,3.607143,3.821429,14
+Mjød,Braggot,Valkyrie Brewing,9,20,40,22,39,37,8,180,81,1,86,15,20,70,3.815789,3.815789,3.5,3.684211,3.631579,19
+Premium Oak Brackett,Braggot,"White Winter Winery, Inc.",10,20,40,8,30,32,10,95,24,3,32,21,18,57,3.961538,3.807692,3.961538,4.076923,3.576923,13
+Hummingbird,Braggot,Mountain Sun Pub & Brewery,8,20,40,4,8,7,4,21,2,0,4,6,6,16,4.25,4,4.25,4,4.25,4
+Braggot,Braggot,Crabtree Brewing Company,7.85,20,40,2,29,9,29,56,3,0,7,16,5,56,3.6,4.1,3.7,3.85,3.7,10
+White Winter Brackett,Braggot,"White Winter Winery, Inc.",5,20,40,3,5,2,2,25,6,0,3,3,11,16,3.75,3.75,3.5,3.583333,3.083333,6
+"Honey, I Can Explain",Braggot,South Street Brewery,7,20,40,0,0,0,3,7,0,0,0,3,1,4,3.25,3.5,3.75,3.25,3,2
+Saku Mõdu,Braggot,Saku Brewery LTD,4,20,40,0,0,3,0,7,3,0,3,0,0,4,3,2.5,3,3,3,1
+Spring Braggot,Braggot,Craftsman Brewing Co.,7.5,20,40,2,3,0,1,13,1,0,3,6,6,7,3.875,4,4,4.125,4.25,4
+Sanctification,Brett Beer,Russian River Brewing Company,4.8,0,0,29,33,5,10,36,133,6,80,16,9,20,4.242762,4.165924,4.242762,4.319599,4.332962,449
+Wild Devil,Brett Beer,Victory Brewing Company,6.7,0,0,31,42,15,83,43,133,0,66,104,14,27,3.943617,4.110638,3.832979,3.868085,3.771277,470
+Defenestration,Brett Beer,Russian River Brewing Company,6.5,0,0,34,33,12,44,38,44,2,51,76,32,23,3.888889,4.1,3.988889,3.977778,4,45
+Indian Brown Ale,Brown Ale - American,Dogfish Head Brewery,7.2,25,45,10,42,18,82,53,13,0,15,71,6,93,4.017743,4.048284,4.000582,4.173357,4.034031,1719
+Palo Santo Marron,Brown Ale - American,Dogfish Head Brewery,12,25,45,13,52,29,34,65,9,1,24,14,27,88,4.158338,4.110777,4.116195,4.220951,3.928958,1661
+Hazelnut Brown Nectar,Brown Ale - American,Rogue Ales,5.6,25,45,6,66,9,32,77,8,0,21,27,14,157,4.066375,3.978537,3.963037,4.149046,4.054054,1258
+Moose Drool Brown Ale,Brown Ale - American,Big Sky Brewing Company,5.1,25,45,9,52,4,49,57,5,0,7,36,10,101,3.614721,3.80305,3.605438,3.70557,3.807692,754
+Old Brown Dog,Brown Ale - American,Smuttynose Brewing Company,6.7,25,45,14,37,9,51,50,5,0,5,58,3,91,3.754854,3.793689,3.823422,3.95267,4.003034,824
+Coffee Bender,Brown Ale - American,Surly Brewing Company,5.5,25,45,28,87,9,139,66,16,0,10,64,15,207,4.199362,4.094099,3.985646,4.181818,4.191388,627
+Wilco Tango Foxtrot,Brown Ale - American,Lagunitas Brewing Company,7.85,25,45,8,72,15,92,70,33,0,30,95,3,124,3.899329,4.000839,3.873322,3.924497,3.931208,596
+Brown Ale,Brown Ale - American,Brooklyn Brewery,5.6,25,45,15,70,4,43,60,6,0,2,33,1,109,3.623991,3.817762,3.574394,3.705882,3.817186,867
+Ellie's Brown Ale,Brown Ale - American,Avery Brewing Company,5.5,25,45,10,48,8,40,48,3,0,5,31,9,98,3.726148,3.910777,3.80212,3.949647,3.975265,566
+Bender,Brown Ale - American,Surly Brewing Company,5.5,25,45,10,75,12,62,71,6,0,8,47,11,155,4.004392,4.13104,4.099561,4.18448,4.285505,683
+Sumatra Mountain Brown,Brown Ale - American,Founders Brewing Company,9,25,45,8,103,27,106,105,9,3,12,33,13,218,4,3.9,4,4.4,4.1,5
+Koko Brown,Brown Ale - American,Kona Brewing Co.,5.5,25,45,8,43,7,25,43,4,0,61,23,3,80,3.604839,3.620968,3.475806,3.701613,3.548387,62
+Pecan Ale,Brown Ale - American,Abita Brewing Co.,5.2,25,45,11,37,6,19,44,6,0,7,24,4,146,3.38354,3.509317,3.231366,3.330745,3.431677,322
+Maple Nut Brown Ale,Brown Ale - American,Tommyknocker Brewery,4.5,25,45,7,53,5,12,99,1,0,1,11,3,130,3.416456,3.481013,3.289873,3.382278,3.418987,395
+Rocky's Revenge Bourbon Brown,Brown Ale - American,Tyranena Brewing Company,6,25,45,9,59,46,18,60,0,0,5,16,19,128,3.71865,3.782958,3.680064,3.836013,3.842444,311
+Brekle's Brown,Brown Ale - American,Anchor Brewing Company,6,25,45,21,49,7,61,60,29,0,42,64,0,82,3.588889,3.966667,3.694444,3.627778,3.666667,90
+Bellaire Brown Ale,Brown Ale - American,Short's Brewing Company,7,25,45,11,63,10,24,72,5,0,11,22,4,118,3.732843,3.789216,3.779412,3.828431,3.904412,204
+George,Brown Ale - American,Hill Farmstead Brewery,6,25,45,14,68,5,66,58,16,0,19,67,7,133,4,4.083333,4,3.958333,3.916667,12
+Brown Ale,Brown Ale - American,The Duck-Rabbit Craft Brewery,5.6,25,45,15,71,11,93,47,12,1,13,97,10,99,3.744027,3.988055,3.638225,3.723549,3.762799,293
+Dos Perros,Brown Ale - American,Yazoo Brewing Company,4.9,25,45,12,52,1,29,56,4,2,5,25,8,127,3.576923,3.557692,3.5,3.626923,3.811538,130
+Imperial Nut Brown Ale,Brown Ale - American,Tommyknocker Brewery,9,25,45,12,60,40,60,131,16,0,25,44,4,167,3.665094,3.691824,3.718553,3.727987,3.611635,318
+Peter Brown Tribute Ale,Brown Ale - American,Bear Republic Brewing Co.,6.3,25,45,11,62,14,67,97,9,0,15,49,15,137,3.920195,4.034202,3.809446,3.942997,4.006515,307
+Good Humans Ale (Dry Hopped Double Brown Ale),Brown Ale - American,Short's Brewing Company,9.15,25,45,16,59,20,65,65,24,0,26,90,8,117,3.892,3.868,3.768,3.804,3.772,125
+Sweet Josie Brown Ale,Brown Ale - American,Lonerider Brewing,6.1,25,45,8,57,7,29,76,6,0,9,23,3,103,3.702381,3.892857,3.571429,3.821429,3.857143,42
+Bravo 2017,Brown Ale - American,Firestone Walker Brewing Co.,13.2,25,45,7,38,45,20,71,16,2,22,15,20,95,4.5,4.0625,4.125,4.4375,4.1875,8
+Flashback Ale,Brown Ale - American,Boulder Beer / Wilderness Pub,6.8,25,45,17,74,15,98,48,31,2,30,122,17,118,3.795367,3.994208,3.849421,3.889961,3.911197,259
+Madtown Nutbrown,Brown Ale - American,Ale Asylum,5.5,25,45,9,86,3,24,61,9,0,8,31,1,121,3.617188,3.765625,3.71875,3.8125,3.78125,64
+Over Ale,Brown Ale - American,Half Acre Beer Company,6,25,45,17,66,6,59,56,10,0,12,80,4,113,3.678218,3.940594,3.816832,3.861386,3.975248,101
+Leffe Brune / Brown,Brown Ale - Belgian Dark,Abbaye de Leffe S.A.,6.5,15,25,11,57,21,26,98,18,0,41,24,31,125,3.711429,3.971429,3.777143,3.88,3.828571,350
+Noire De Chambly / Chambly Noire,Brown Ale - Belgian Dark,Unibroue,6.2,15,25,15,45,25,18,89,61,0,76,22,66,58,3.656786,3.872075,3.583463,3.665367,3.74025,641
+Belgian Freeze Belgian Style Winter Ale,Brown Ale - Belgian Dark,River Horse Brewing Co.,8,15,25,7,29,31,18,82,36,1,52,20,16,38,3.603896,3.685065,3.422078,3.522727,3.516234,154
+Cold Front,Brown Ale - Belgian Dark,Ithaca Beer Company,7.2,15,25,16,44,25,24,82,43,0,55,28,31,67,3.774194,3.915323,3.645161,3.673387,3.673387,124
+Grottenbier,Brown Ale - Belgian Dark,Brouwerij St. Bernardus NV,6.5,15,25,36,58,23,20,75,66,0,50,25,64,63,3.82767,4.041262,3.745146,3.808252,3.813107,206
+Rejection,Brown Ale - Belgian Dark,Russian River Brewing Company,6.1,15,25,7,85,8,38,91,35,0,40,35,25,97,3.836735,4.05102,3.836735,3.887755,4.010204,49
+La Rullés Cuvée Meilleurs Voeux (Bière De Gaume),Brown Ale - Belgian Dark,Brasserie Artisanale De Rullés SPRL,7.3,15,25,23,60,27,31,121,54,0,73,33,52,63,3.851064,3.968085,3.87234,3.957447,4.085106,47
+Werewolf,Brown Ale - Belgian Dark,Rinkuškiai Alaus Darykloje,8.2,15,25,7,35,45,18,87,32,0,40,16,4,76,2.951923,3.278846,2.855769,2.903846,2.807692,52
+Tempelier,Brown Ale - Belgian Dark,Brouwerij Corsendonk,6,15,25,42,50,13,28,89,57,2,60,41,19,68,3.833333,3.777778,3.777778,3.722222,4,9
+Bink Bruin,Brown Ale - Belgian Dark,Brouwerij Kerkom,5.5,15,25,12,65,16,33,116,34,0,57,36,12,80,3.587302,3.65873,3.5,3.555556,3.650794,63
+Biscotti,Brown Ale - Belgian Dark,Lift Bridge Brewery,7,15,25,14,31,24,12,53,30,0,51,15,80,76,3.611111,3.666667,3.5,3.166667,3.222222,9
+Fullsuit Belgian-Style Brown Ale,Brown Ale - Belgian Dark,Karl Strauss Brewing Company,6.3,15,25,19,50,21,20,62,30,0,38,21,27,103,3.557692,3.75,3.634615,3.576923,3.711538,26
+D’Tango Unchained,Brown Ale - Belgian Dark,Weyerbacher Brewing Co.,9.6,15,25,32,52,21,2,81,147,0,117,16,33,47,3.636364,3.590909,3.454545,3.363636,3.318182,11
+Winter Koninck,Brown Ale - Belgian Dark,Brouwerij De Koninck NV,6.5,15,25,5,45,24,15,100,31,0,40,15,43,51,3.382353,3.647059,3.463235,3.389706,3.477941,68
+Tongerlo 6 Dubbel Bruin,Brown Ale - Belgian Dark,Brouwerij Haacht NV,6.5,15,25,9,35,5,18,82,25,0,46,10,5,52,3.26087,3.826087,3.326087,3.347826,3.326087,23
+Bière De Noël,Brown Ale - Belgian Dark,Brasserie Thiriez,5.8,15,25,19,55,12,17,59,62,1,54,27,63,81,3.707317,3.792683,3.52439,3.573171,3.573171,41
+Abbey Ale,Brown Ale - Belgian Dark,Cathedral Square Brewery,6.5,15,25,11,46,18,25,60,25,1,43,31,22,92,3.5,3.694444,3.416667,3.361111,3.333333,18
+Leffe De Noël,Brown Ale - Belgian Dark,Abbaye de Leffe S.A.,6.6,15,25,6,29,23,18,66,28,0,29,14,45,52,3.59375,3.9375,3.125,3.15625,3.09375,16
+Proletary Ale,Brown Ale - Belgian Dark,The Brewer's Art,5,15,25,15,66,14,44,52,4,0,9,31,11,92,3.73913,4.086957,3.847826,3.956522,3.978261,23
+Black Jack (Bourbon Barrel Aged),Brown Ale - Belgian Dark,North by Northwest Restaurant & Brewery,0,15,25,6,37,46,6,49,11,0,20,11,26,77,3.966667,3.866667,3.9,4,4,15
+La Rullés Brune (Bière De Gaume),Brown Ale - Belgian Dark,Brasserie Artisanale De Rullés SPRL,6.5,15,25,12,55,12,17,100,29,0,43,29,17,94,3.5,3.8,3.5,3.55,3.55,10
+La Petite Mort,Brown Ale - Belgian Dark,Black Raven Brewing Co.,8.7,15,25,3,12,5,4,19,8,0,9,3,7,12,3.9,4,4,4.2,4.1,5
+Leffe Rossa,Brown Ale - Belgian Dark,Abbaye de Leffe S.A.,6.6,15,25,12,26,12,11,49,18,0,18,13,24,48,3.666667,3.666667,3.333333,3.333333,3.5,3
+North By Northwest Okanogan Black Ale,Brown Ale - Belgian Dark,North by Northwest Restaurant & Brewery,0,15,25,3,22,3,14,18,4,0,4,12,7,46,3.388889,3.833333,3.388889,3.666667,3.777778,9
+Valeir Donker,Brown Ale - Belgian Dark,Brouwerij Contreras,6.5,15,25,12,54,6,19,94,29,0,58,16,10,48,4,4.272727,3.863636,3.863636,3.863636,11
+Blind Ambition,Brown Ale - Belgian Dark,Ladyface Ale Companie,6.4,15,25,2,7,6,6,16,7,1,7,7,3,18,3.666667,4,4,3.833333,4,3
+Nut Brown AleSamuel Smith Old Brewery (Tadcaster),Brown Ale - English,Samuel Smith Old Brewery (Tadcaster),5,15,25,11,55,5,25,77,18,0,40,42,2,136,3.92437,4.124905,3.995034,4.097403,4.152788,1309
+Maduro Brown Ale,Brown Ale - English,Cigar City Brewing,5.5,15,25,12,87,5,54,73,7,0,16,27,13,157,3.885227,3.922727,3.915909,4.056818,4.05,440
+Turbodog,Brown Ale - English,Abita Brewing Co.,5.6,15,25,10,53,5,49,75,8,0,20,34,11,118,3.515964,3.836374,3.513113,3.645382,3.706956,877
+Southern Pecan,Brown Ale - English,Lazy Magnolia Brewing Company,4.5,15,25,10,42,6,24,69,9,0,15,33,6,149,3.655128,3.671795,3.624359,3.832051,3.961538,390
+Fat Squirrel Ale,Brown Ale - English,New Glarus Brewing Company,5.8,15,25,12,53,12,44,77,19,1,24,57,9,148,3.690372,3.742888,3.786652,3.905908,3.991247,457
+Cubano-Style Espresso Brown Ale,Brown Ale - English,Cigar City Brewing,5.5,15,25,18,87,6,76,71,8,0,2,21,19,186,4.162234,3.906915,3.827128,4.071809,4.071809,188
+Nut Brown Ale,Brown Ale - English,AleSmith Brewing Company,5,15,25,23,74,12,33,52,11,2,7,33,4,131,3.863636,3.993506,3.928571,4.097403,4.149351,77
+Downtown Brown,Brown Ale - English,Lost Coast Brewery and Cafe,5,15,25,4,36,2,15,48,7,0,11,13,1,78,3.57265,3.69943,3.552707,3.685185,3.801994,351
